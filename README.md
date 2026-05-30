@@ -18,7 +18,5 @@
 
 pip install -r requirements.txt
 
-## Environment Variables
 
-MISTRAL_API_KEY=your_api_key
 
